@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuliuftd
-- 👀 I’m interested in JavaScipt, React & Nodejs
-- 🌱 I’m currently learning Power Automate
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JavaScript, React & Nodejs
+- 🌱 I’m currently learning Power Automate, AI
+- 💞️ I’m looking to collaborate on project which makes the world better...
 - 📫 How to reach me : Liuyuftd@gmail.com
 
 <!---
